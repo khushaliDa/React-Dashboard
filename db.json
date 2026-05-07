@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alex Johnson",
+      "email": "alex@metrik.io",
+      "role": "Admin",
+      "status": "Active"
+    },
+    {
+      "id": 2,
+      "name": "Priya Sharma",
+      "email": "priya@metrik.io",
+      "role": "Editor",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "Carlos Ruiz",
+      "email": "carlos@metrik.io",
+      "role": "Viewer",
+      "status": "Inactive"
+    },
+    {
+      "id": 4,
+      "name": "Mei Lin",
+      "email": "mei@metrik.io",
+      "role": "Editor",
+      "status": "Active"
+    },
+    {
+      "id": 5,
+      "name": "Jordan Blake",
+      "email": "jordan@metrik.io",
+      "role": "Viewer",
+      "status": "Inactive"
+    },
+    {
+      "id": 6,
+      "name": "Sofia Andersen",
+      "email": "sofia@metrik.io",
+      "role": "Admin",
+      "status": "Active"
+    },
+    {
+      "name": "khushali",
+      "email": "khushali.neosoft@gmail.com",
+      "role": "Viewer",
+      "id": 7
+    },
+    {
+      "name": "khushali",
+      "email": "khushali.neosoft@gmail.com",
+      "role": "Viewer",
+      "id": 8
+    }
+  ]
+}
